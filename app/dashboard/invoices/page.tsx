@@ -1,4 +1,4 @@
-export  const invoices = () => {
+  const invoices = () => {
     return(
         <div>This is the invoices page</div>
     )
